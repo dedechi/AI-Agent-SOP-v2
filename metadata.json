@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent SOP dan Regulasi",
+  "description": "Aplikasi internal instansi untuk mencari, memahami, dan memverifikasi SOP serta regulasi resmi dengan rujukan sumber dan kontrol akses berbasis peran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
